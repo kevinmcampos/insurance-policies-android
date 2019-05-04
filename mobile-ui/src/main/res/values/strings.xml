@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Insurance Policies</string>
+
+    <string name="dismiss">Dismiss</string>
+    <string name="refresh_action">Refresh</string>
+    <string name="extend_action">Extend</string>
+    <string name="reg_plate">Reg plate</string>
+    <string name="policies">Policies</string>
+    <string name="total_policies">Total policies</string>
+    <string name="insure_action">Insure</string>
+    <string name="vehicle_profile">Vehicle Profile</string>
+    <string name="previous_driving_policies">Previous driving policies</string>
+    <string name="active_driving_policy">Active driving policy</string>
+    <string name="active_policy">Active policy</string>
+    <string name="time_remaining">Time remaining</string>
+    <string name="policy">Policy</string>
+    <string name="get_help">Get help</string>
+    <string name="total_paid">Total paid</string>
+</resources>

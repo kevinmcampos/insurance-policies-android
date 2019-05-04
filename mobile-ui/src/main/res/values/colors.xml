@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/blue</color>
+    <color name="colorPrimaryDark">@color/dark_indigo</color>
+    <color name="colorAccent">@color/green</color>
+
+    <color name="blue">#5A5CFF</color>
+    <color name="indigo">#4242C3</color>
+
+    <color name="dark_indigo">#00008F</color>
+    <color name="text_default">#00004F</color>
+
+    <color name="green">#1EC68D</color>
+    <color name="green_text">#31CE9D</color>
+
+    <color name="blue_75">#BF5A5CFF</color>
+    <color name="blue_50">#805A5CFF</color>
+    <color name="blue_25">#405A5CFF</color>
+    <color name="blue_10">#1A5A5CFF</color>
+    <color name="blue_05">#0D5A5CFF</color>
+
+    <color name="red">#FF2724</color>
+
+    <color name="white">#FFFFFF</color>
+
+</resources>

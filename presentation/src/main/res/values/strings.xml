@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">presentation</string>
+    <string name="failed">Failed to refresh policies</string>
+    <string name="money_format">£%s</string>
+</resources>
